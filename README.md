@@ -1,0 +1,2 @@
+# kartikhegadi
+ git-config
